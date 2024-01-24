@@ -36,7 +36,7 @@ dependencies = [
 
 [[package]]
 name = "alloy_serde_macro"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "alloy-primitives",
  "hex",
