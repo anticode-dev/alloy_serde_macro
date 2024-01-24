@@ -2,6 +2,11 @@ use alloy_primitives::aliases::*;
 use serde::{ser::Error, Deserialize, Deserializer, Serializer};
 use std::str::FromStr;
 
+pub mod bytes;
+
+pub use bytes::bytes_as_string;
+pub use bytes::bytes_from_string;
+
 pub mod macros;
 
 // exports serialize
