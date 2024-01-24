@@ -2,8 +2,9 @@
 name = "alloy_serde_macro"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+repository = "https://github.com/anticode-dev/alloy_serde_macro"
+description = "Work with native sol types while ensuring they are being deserialised into or serialised from non-hex types."
 
 [dependencies]
 alloy-primitives = { version = "0.6", default-features = false, features = ["std"] }
