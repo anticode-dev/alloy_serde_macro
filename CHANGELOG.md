@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## v0.1.0 (2024-01-24)
 
+<csr-id-fda787c02076678b4201569034e19e4b87f2afad/>
+
 ### Style
 
  - <csr-id-fda787c02076678b4201569034e19e4b87f2afad/> add changelog
+
+### Style
+
+ - <csr-id-aa19c77c49a3677eaddea6a6e616d1d5eb2ba6c5/> update cargo.toml
 
 ### New Features
 
@@ -19,8 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 4 commits contributed to the release.
- - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 6 commits contributed to the release.
+ - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -30,6 +36,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Update cargo.toml ([`aa19c77`](https://github.com/anticode-dev/alloy_serde_macro/commit/aa19c77c49a3677eaddea6a6e616d1d5eb2ba6c5))
+    - Release alloy_serde_macro v0.1.0 ([`cdfa7fc`](https://github.com/anticode-dev/alloy_serde_macro/commit/cdfa7fca600ff66d5690125ad04b08e9decdb2bc))
     - Add changelog ([`fda787c`](https://github.com/anticode-dev/alloy_serde_macro/commit/fda787c02076678b4201569034e19e4b87f2afad))
     - Release alloy_serde_macro v0.1.0 ([`2b22ea4`](https://github.com/anticode-dev/alloy_serde_macro/commit/2b22ea4508bdc5efa80dc0ce74cd7dda808ff5cc))
     - Init ([`f155550`](https://github.com/anticode-dev/alloy_serde_macro/commit/f155550148363951a6975d2cfc7687e19e596147))
