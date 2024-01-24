@@ -1,3 +1,6 @@
+![CI](https://github.com/anticode-dev/alloy_serde_macro/actions/workflows/rust.yml/badge.svg?branch=main)
+![Crates.io](https://img.shields.io/crates/v/alloy_serde_macro)
+
 # Alloy-Serde (De)Serialization Macros
 
 ## What is this crate about?
