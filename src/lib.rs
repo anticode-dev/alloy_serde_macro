@@ -1,7 +1,5 @@
 use alloy_primitives::aliases::*;
-use serde::ser::Error;
-use serde::Deserialize;
-use serde::{Deserializer, Serializer};
+use serde::{ser::Error, Deserialize, Deserializer, Serializer};
 use std::str::FromStr;
 
 pub mod macros;
