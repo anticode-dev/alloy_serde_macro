@@ -1,8 +1,9 @@
 on:
     push:
       branches:
-        - main 
+        - main
     pull_request:
+      branches:
         - main
   
   name: Rust 
@@ -69,4 +70,4 @@ on:
             cache-on-failure: true
   
         - name: cargo clippy
-          run: cargo clippy --all --all-features -- -D warnings 
+          run: cargo clippy --all --all-features -- -D warnings
